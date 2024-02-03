@@ -1,5 +1,17 @@
-# Node-RED
+# Node-RED PLUS
 
+This fork aims to give superpowers to nodered.
+
+Superpowers:
+- GIT-based settings
+- GIT-based flows
+- GIT-based dependencies
+- ENV-based secrets
+- Typescript support
+- Code linter
+- Code prettier
+
+Original project:
 https://nodered.org
 
 [![Build Status](https://github.com/node-red/node-red/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/node-red/node-red/actions?query=branch%3Amaster)
